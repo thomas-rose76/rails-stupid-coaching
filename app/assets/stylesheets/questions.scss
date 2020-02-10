@@ -1,0 +1,50 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background: #FCF5E9;
+}
+
+.navbar {
+  background-color: red;
+  width: 100%;
+  height: 120px;
+}
+
+.container {
+  height: 100px;
+}
+
+.footer {
+  background-color: grey;
+  width: 100%;
+  height: 100px;
+  margin-top: 200px
+}
+
+.btn {
+  background-color:#F91100;
+  color: white;
+  border-radius: 4px;
+}
+
+.form {
+  text-align: center;
+}
+
+.result {
+  text-align: center;
+}
+
+.jim {
+  width: 190px;
+  display: block;
+  margin: auto;
+  padding: 7px;
+}
+
+.gif {
+  width: 160px;
+  margin: 28px;
+}
